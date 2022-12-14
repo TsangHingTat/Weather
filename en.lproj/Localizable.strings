@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  H. Weather
+
+  Created by HingTatTsang on 13/12/2022.
+  
+*/
+
+"天氣" = "Weather";
+"新增地點" = "Add a place";
+"數據來源: 天氣" = "Data Source: Weather";
+"法律資訊" = "Legal";
+"紫外線" = "UV";
+"濕度" = "Humidity";
+"體感溫度" = "Apparent Temperature";
+"能見度" = "Visibility";
+"風速" = "Wind Speed";
+"雲量" = "Cloud Cover";
+"氣壓" = "Pressure";
+"風向" = "Wind Direction";
+"10天天氣預報" = "Weather Forecast";
+"N" = " ";
+
+
+
+
+
+
+
+
+
+
+
